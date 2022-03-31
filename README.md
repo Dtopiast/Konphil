@@ -1,5 +1,5 @@
 <!--# Konphil
-An application designed in c# .net 6.0 with xamarin.forms to find the best deals in different e-commerce sites in mexico adding the items only to your watch list, multiplatform and open source what else can you ask for?--!>
+An application designed in c# .net 6.0 with xamarin.forms to find the best deals in different e-commerce sites in mexico adding the items only to your watch list, multiplatform and open source what else can you ask for?-->
 
 <div id="top"></div>
 <!--
@@ -20,12 +20,12 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -36,10 +36,10 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Konphil </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Track your favorite products on various ecommerce sites
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
