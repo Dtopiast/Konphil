@@ -1,0 +1,7 @@
+#Untrack folders
+
+.vs/
+/Konphil/Konphil/bin
+/Konphil/Konphil.Android/bin
+/Konphil/Konphil.iOS/bin
+/Konphil/Konphil.UWP/bin
