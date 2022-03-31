@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzudRouHCt6ig2g4KyDdTG0iagGPXjbo5tZT4LdDphqMFjNDnye47KnifveJGw7sFndxOex8uIWN8QXB71jkCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil\\Konphil.iOS\\Konphil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Thor\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Thor\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

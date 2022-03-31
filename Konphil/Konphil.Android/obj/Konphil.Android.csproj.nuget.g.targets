@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+  <ImportGroup Condition="'$(ExcludeRestorePackageImports)' != 'true'">
     <Import Project="$(NuGetPackageRoot)xamarin.google.guava.listenablefuture\1.0.0.2\buildTransitive\monoandroid50\Xamarin.Google.Guava.ListenableFuture.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.google.guava.listenablefuture\1.0.0.2\buildTransitive\monoandroid50\Xamarin.Google.Guava.ListenableFuture.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.multidex\2.0.1.7\buildTransitive\monoandroid9.0\Xamarin.AndroidX.MultiDex.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.multidex\2.0.1.7\buildTransitive\monoandroid9.0\Xamarin.AndroidX.MultiDex.targets')" />
     <Import Project="$(NuGetPackageRoot)xamarin.androidx.migration\1.0.8\buildTransitive\monoandroid90\Xamarin.AndroidX.Migration.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.migration\1.0.8\buildTransitive\monoandroid90\Xamarin.AndroidX.Migration.targets')" />
