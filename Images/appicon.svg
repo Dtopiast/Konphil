@@ -1,0 +1,21 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <g stroke="null">
+
+   <line stroke="#fff" stroke-width="20px" stroke-miterlimit="10" fill="none" y2="-72.14997" x2="363.55124" y1="-72.14997" x1="363.55124" class="cls-1"/>
+   <line stroke="#fff" stroke-width="20px" stroke-miterlimit="10" fill="none" y2="-65.99565" x2="288.96772" y1="-65.99565" x1="288.96772" class="cls-1"/>
+   <rect stroke="null" x="18.5" fill="#0a655a" rx="216.2" height="443.62436" width="443.09579" y="15.34403" class="cls-2"/>
+   <rect stroke="null" fill="#00b29b" rx="127.3" height="408.23699" width="370.25392" y="77.91302" x="108.24611" class="cls-3"/>
+   <line stroke="#fff" fill="url(#svg_2)" stroke-width="40px" stroke-miterlimit="10" y2="430.76107" x2="222.17039" y1="15.34403" x1="223.19489" class="cls-4"/>
+   <line stroke="#fff" stroke-width="35px" stroke-miterlimit="10" fill="none" y2="68.98925" x2="441.31071" y1="317.31632" x1="225.55124" class="cls-5"/>
+   <line stroke="#fff" stroke-width="33px" stroke-miterlimit="10" fill="none" y2="486.15001" x2="440.79846" y1="294.34016" x1="266.01894" class="cls-6"/>
+  </g>
+ </g>
+ <defs>
+  <linearGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0244989395141602,0,0,1.0564926862716675,-64.77127075195312,-100.68553161621094)" y2="306.26" x2="281.1" y1="306.26" x1="280.11" id="svg_2">
+   <stop stop-color="#fff" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
