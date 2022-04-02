@@ -32,8 +32,8 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Dtopiast/Konphil">
+    <img src="images/appicon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Konphil </h3>
@@ -41,14 +41,14 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
   <p align="center">
     Track your favorite products on various ecommerce sites
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dtopiast/Konphil"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://youtube.com">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Dtopiast/Konphil">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Dtopiast/Konphil">Request Feature</a>
   </p>
 </div>
 
@@ -106,14 +106,11 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [C# 10](https://nextjs.org/)
+* [Dotnet 6.0](https://reactjs.org/)
+* [MAUI](https://reactjs.org/)
+* [SqLite](https://reactjs.org/)
+* 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
