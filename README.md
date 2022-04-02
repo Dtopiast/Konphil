@@ -32,7 +32,7 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dtopiast/Konphil">
+  <a href="https://github.com/Dtopiast/Konphil/Images/appicon.svg">
     <img src="images/appicon.svg" alt="Logo" width="80" height="80">
   </a>
 
