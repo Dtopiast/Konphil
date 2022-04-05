@@ -32,8 +32,8 @@ An application designed in c# .net 6.0 with xamarin.forms to find the best deals
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Dtopiast/Konphil/master/Images/appicon.svg">
-    <img src="images/appicon.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Dtopiast/Konphil/blob/master/Images/appicon.png">
+    <img src="images/appicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Konphil </h3>
