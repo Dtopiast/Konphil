@@ -1,6 +1,7 @@
 #Untrack folders
 
 .vs/
-"/Konphil.Core/bin"
+/Konphil.Core/bin
+
 
 test
