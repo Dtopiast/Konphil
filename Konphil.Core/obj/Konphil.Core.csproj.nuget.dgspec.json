@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil.Core\\Konphil.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil.Core\\Konphil.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil.Core\\Konphil.Core.csproj",
+        "projectName": "Konphil.Core",
+        "projectPath": "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil.Core\\Konphil.Core.csproj",
+        "packagesPath": "C:\\Users\\Thor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thor\\Documents\\Proyects\\Konphil\\Konphil.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Thor\\NuGet.Config",
+          "C:\\Users\\Thor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://aka.ms/maui-preview/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.42, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "UnOfficial.ScrapySharp.Xamarin.Android": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.2.22153.17\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
